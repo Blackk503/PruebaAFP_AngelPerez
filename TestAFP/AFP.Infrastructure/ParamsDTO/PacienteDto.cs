@@ -1,6 +1,6 @@
-﻿namespace AFP.Core.Entities
+﻿namespace AFP.Infrastructure.ParamsDTO
 {
-    public class Paciente
+    public class PacienteDto
     {
         public int Opcion { get; set; }
         public int Id { get; set; }

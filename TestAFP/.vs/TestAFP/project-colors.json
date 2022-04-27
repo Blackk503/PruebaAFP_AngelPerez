@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff4192e2-06d6-488f-b127-ac1deeae0fba": {
+      "ProjectGuid": "ff4192e2-06d6-488f-b127-ac1deeae0fba",
+      "DisplayName": "AFP.Core",
+      "ColorIndex": 0
+    },
+    "ef4f462b-9f6a-4e18-9ce3-4918db4efe63": {
+      "ProjectGuid": "ef4f462b-9f6a-4e18-9ce3-4918db4efe63",
+      "DisplayName": "AFP.Infrastructure",
+      "ColorIndex": 1
+    },
+    "641f2693-6d46-420b-bc61-51cb026804fd": {
+      "ProjectGuid": "641f2693-6d46-420b-bc61-51cb026804fd",
+      "DisplayName": "AFP.WebApp",
+      "ColorIndex": 2
+    },
+    "cf3ba102-776b-491d-97c5-1da0e7414dc3": {
+      "ProjectGuid": "cf3ba102-776b-491d-97c5-1da0e7414dc3",
+      "DisplayName": "AFP.XTest",
+      "ColorIndex": 3
+    },
+    "fbed85af-a8af-4147-9cac-bbbcd72d1dc7": {
+      "ProjectGuid": "fbed85af-a8af-4147-9cac-bbbcd72d1dc7",
+      "DisplayName": "AFP.TestAFP",
+      "ColorIndex": 4
+    },
+    "5efddd70-d0e7-45e3-a92e-a2baaa75cef4": {
+      "ProjectGuid": "5efddd70-d0e7-45e3-a92e-a2baaa75cef4",
+      "DisplayName": "AFP.WebApi",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
